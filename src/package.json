@@ -1,0 +1,17 @@
+{
+  "name": "hello-world-express",
+  "description": "Hello World test app",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "after-load": "^1.0.4",
+    "bluebird": "^3.5.0",
+    "express": "3.x",
+    "fetch": "^1.1.0",
+    "firebase": "^3.9.0",
+    "geolib": "^2.0.22",
+    "lodash": "^4.17.4",
+    "node-fetch": "^1.6.3",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
