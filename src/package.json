@@ -6,6 +6,7 @@
   "dependencies": {
     "after-load": "^1.0.4",
     "bluebird": "^3.5.0",
+    "body-parser": "^1.17.2",
     "express": "3.x",
     "fetch": "^1.1.0",
     "firebase": "^3.9.0",
